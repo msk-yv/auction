@@ -1,0 +1,26 @@
+header, footer {
+    text-align: center;
+}
+.header__logo-base {
+    width: 100px;
+}
+.table_auction{
+   /* align: center; */
+    width: 100%;
+    background-color: aqua;
+    border: 3px solid black;
+    border-color: black;
+    border-collapse: none;
+    border-spacing: 10px;
+    
+    
+}
+td {
+    border: 3px solid black;
+    padding: 5px;
+    
+}
+.image_in_lot{
+    align-content: center;
+    width: 70%;
+}
